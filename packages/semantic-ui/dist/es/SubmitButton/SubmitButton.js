@@ -1,0 +1,10 @@
+import React from "react";
+import { Button } from "semantic-ui-react";
+export default (function () {
+  return React.createElement(Button, {
+    content: "Submit",
+    type: "submit",
+    primary: true
+  });
+});
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9TdWJtaXRCdXR0b24vU3VibWl0QnV0dG9uLmpzIl0sIm5hbWVzIjpbIlJlYWN0IiwiQnV0dG9uIl0sIm1hcHBpbmdzIjoiQUFBQSxPQUFPQSxLQUFQLE1BQWtCLE9BQWxCO0FBQ0EsU0FBU0MsTUFBVCxRQUF1QixtQkFBdkI7QUFDQSxnQkFBZTtBQUFBLFNBQU8sb0JBQUMsTUFBRDtBQUFRLElBQUEsT0FBTyxFQUFDLFFBQWhCO0FBQXlCLElBQUEsSUFBSSxFQUFDLFFBQTlCO0FBQXVDLElBQUEsT0FBTztBQUE5QyxJQUFQO0FBQUEsQ0FBZiIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCBmcm9tIFwicmVhY3RcIjtcclxuaW1wb3J0IHsgQnV0dG9uIH0gZnJvbSBcInNlbWFudGljLXVpLXJlYWN0XCI7XHJcbmV4cG9ydCBkZWZhdWx0ICgpID0+ICg8QnV0dG9uIGNvbnRlbnQ9XCJTdWJtaXRcIiB0eXBlPVwic3VibWl0XCIgcHJpbWFyeSAvPik7XHJcblxyXG4iXX0=

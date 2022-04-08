@@ -1,0 +1,4 @@
+/* eslint-disable import/export */
+export { default } from './RangeWidget';
+export * from './RangeWidget';
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9SYW5nZVdpZGdldC9pbmRleC5qcyJdLCJuYW1lcyI6WyJkZWZhdWx0Il0sIm1hcHBpbmdzIjoiQUFBQTtBQUNBLFNBQVNBLE9BQVQsUUFBd0IsZUFBeEI7QUFDQSxjQUFjLGVBQWQiLCJzb3VyY2VzQ29udGVudCI6WyIvKiBlc2xpbnQtZGlzYWJsZSBpbXBvcnQvZXhwb3J0ICovXHJcbmV4cG9ydCB7IGRlZmF1bHQgfSBmcm9tICcuL1JhbmdlV2lkZ2V0JztcclxuZXhwb3J0ICogZnJvbSAnLi9SYW5nZVdpZGdldCc7XHJcbiJdfQ==

@@ -1,0 +1,3 @@
+export { default } from './EmailWidget';
+export * from './EmailWidget';
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9FbWFpbFdpZGdldC9pbmRleC5qcyJdLCJuYW1lcyI6WyJkZWZhdWx0Il0sIm1hcHBpbmdzIjoiQUFBQSxTQUFTQSxPQUFULFFBQXdCLGVBQXhCO0FBQ0EsY0FBYyxlQUFkIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IHsgZGVmYXVsdCB9IGZyb20gJy4vRW1haWxXaWRnZXQnO1xyXG5leHBvcnQgKiBmcm9tICcuL0VtYWlsV2lkZ2V0JztcclxuIl19

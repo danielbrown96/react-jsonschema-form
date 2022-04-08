@@ -1,0 +1,3 @@
+export { default } from './URLWidget';
+export * from './URLWidget';
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9VUkxXaWRnZXQvaW5kZXguanMiXSwibmFtZXMiOlsiZGVmYXVsdCJdLCJtYXBwaW5ncyI6IkFBQUEsU0FBU0EsT0FBVCxRQUF3QixhQUF4QjtBQUNBLGNBQWMsYUFBZCIsInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCB7IGRlZmF1bHQgfSBmcm9tICcuL1VSTFdpZGdldCc7XHJcbmV4cG9ydCAqIGZyb20gJy4vVVJMV2lkZ2V0JztcclxuIl19

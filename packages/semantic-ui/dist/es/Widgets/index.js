@@ -1,0 +1,4 @@
+/* eslint-disable import/export */
+export { default } from './Widgets';
+export * from './Widgets';
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9XaWRnZXRzL2luZGV4LmpzIl0sIm5hbWVzIjpbImRlZmF1bHQiXSwibWFwcGluZ3MiOiJBQUFBO0FBQ0EsU0FBU0EsT0FBVCxRQUF3QixXQUF4QjtBQUNBLGNBQWMsV0FBZCIsInNvdXJjZXNDb250ZW50IjpbIi8qIGVzbGludC1kaXNhYmxlIGltcG9ydC9leHBvcnQgKi9cclxuZXhwb3J0IHsgZGVmYXVsdCB9IGZyb20gJy4vV2lkZ2V0cyc7XHJcbmV4cG9ydCAqIGZyb20gJy4vV2lkZ2V0cyc7XHJcbiJdfQ==

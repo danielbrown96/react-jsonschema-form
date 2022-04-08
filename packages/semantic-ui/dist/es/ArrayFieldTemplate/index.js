@@ -1,0 +1,4 @@
+/* eslint-disable import/export */
+export { default } from './ArrayFieldTemplate';
+export * from './ArrayFieldTemplate';
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9BcnJheUZpZWxkVGVtcGxhdGUvaW5kZXguanMiXSwibmFtZXMiOlsiZGVmYXVsdCJdLCJtYXBwaW5ncyI6IkFBQUE7QUFDQSxTQUFTQSxPQUFULFFBQXdCLHNCQUF4QjtBQUNBLGNBQWMsc0JBQWQiLCJzb3VyY2VzQ29udGVudCI6WyIvKiBlc2xpbnQtZGlzYWJsZSBpbXBvcnQvZXhwb3J0ICovXHJcbmV4cG9ydCB7IGRlZmF1bHQgfSBmcm9tICcuL0FycmF5RmllbGRUZW1wbGF0ZSc7XHJcbmV4cG9ydCAqIGZyb20gJy4vQXJyYXlGaWVsZFRlbXBsYXRlJztcclxuIl19

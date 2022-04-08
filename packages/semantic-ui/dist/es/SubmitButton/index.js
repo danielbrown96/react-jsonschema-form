@@ -1,0 +1,3 @@
+export { default } from './SubmitButton';
+export * from './SubmitButton';
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9TdWJtaXRCdXR0b24vaW5kZXguanMiXSwibmFtZXMiOlsiZGVmYXVsdCJdLCJtYXBwaW5ncyI6IkFBQUEsU0FBU0EsT0FBVCxRQUF3QixnQkFBeEI7QUFDQSxjQUFjLGdCQUFkIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IHsgZGVmYXVsdCB9IGZyb20gJy4vU3VibWl0QnV0dG9uJztcclxuZXhwb3J0ICogZnJvbSAnLi9TdWJtaXRCdXR0b24nO1xyXG4iXX0=

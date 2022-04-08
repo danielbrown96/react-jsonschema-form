@@ -1,0 +1,52 @@
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+
+var _CheckboxWidget = _interopRequireDefault(require("../CheckboxWidget/CheckboxWidget"));
+
+var _CheckboxesWidget = _interopRequireDefault(require("../CheckboxesWidget/CheckboxesWidget"));
+
+var _PasswordWidget = _interopRequireDefault(require("../PasswordWidget/PasswordWidget"));
+
+var _RadioWidget = _interopRequireDefault(require("../RadioWidget/RadioWidget"));
+
+var _RangeWidget = _interopRequireDefault(require("../RangeWidget/RangeWidget"));
+
+var _SelectWidget = _interopRequireDefault(require("../SelectWidget/SelectWidget"));
+
+var _TextareaWidget = _interopRequireDefault(require("../TextareaWidget/TextareaWidget"));
+
+var _TextWidget = _interopRequireDefault(require("../TextWidget/TextWidget"));
+
+var _UpDownWidget = _interopRequireDefault(require("../UpDownWidget/UpDownWidget"));
+
+var _DateWidget = _interopRequireDefault(require("../DateWidget/DateWidget"));
+
+var _DateTimeWidget = _interopRequireDefault(require("../DateTimeWidget/DateTimeWidget"));
+
+var _EmailWidget = _interopRequireDefault(require("../EmailWidget/EmailWidget"));
+
+var _URLWidget = _interopRequireDefault(require("../URLWidget/URLWidget"));
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+var _default = {
+  CheckboxWidget: _CheckboxWidget.default,
+  CheckboxesWidget: _CheckboxesWidget.default,
+  DateWidget: _DateWidget.default,
+  DateTimeWidget: _DateTimeWidget.default,
+  PasswordWidget: _PasswordWidget.default,
+  EmailWidget: _EmailWidget.default,
+  URLWidget: _URLWidget.default,
+  RadioWidget: _RadioWidget.default,
+  RangeWidget: _RangeWidget.default,
+  SelectWidget: _SelectWidget.default,
+  TextareaWidget: _TextareaWidget.default,
+  TextWidget: _TextWidget.default,
+  UpDownWidget: _UpDownWidget.default
+};
+exports.default = _default;
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9XaWRnZXRzL1dpZGdldHMuanMiXSwibmFtZXMiOlsiQ2hlY2tib3hXaWRnZXQiLCJDaGVja2JveGVzV2lkZ2V0IiwiRGF0ZVdpZGdldCIsIkRhdGVUaW1lV2lkZ2V0IiwiUGFzc3dvcmRXaWRnZXQiLCJFbWFpbFdpZGdldCIsIlVSTFdpZGdldCIsIlJhZGlvV2lkZ2V0IiwiUmFuZ2VXaWRnZXQiLCJTZWxlY3RXaWRnZXQiLCJUZXh0YXJlYVdpZGdldCIsIlRleHRXaWRnZXQiLCJVcERvd25XaWRnZXQiXSwibWFwcGluZ3MiOiI7Ozs7Ozs7QUFBQTs7QUFDQTs7QUFDQTs7QUFDQTs7QUFDQTs7QUFDQTs7QUFDQTs7QUFDQTs7QUFDQTs7QUFDQTs7QUFDQTs7QUFDQTs7QUFDQTs7OztlQUVlO0FBQ2JBLEVBQUFBLGNBQWMsRUFBZEEsdUJBRGE7QUFFYkMsRUFBQUEsZ0JBQWdCLEVBQWhCQSx5QkFGYTtBQUdiQyxFQUFBQSxVQUFVLEVBQVZBLG1CQUhhO0FBSWJDLEVBQUFBLGNBQWMsRUFBZEEsdUJBSmE7QUFLYkMsRUFBQUEsY0FBYyxFQUFkQSx1QkFMYTtBQU1iQyxFQUFBQSxXQUFXLEVBQVhBLG9CQU5hO0FBT2JDLEVBQUFBLFNBQVMsRUFBVEEsa0JBUGE7QUFRYkMsRUFBQUEsV0FBVyxFQUFYQSxvQkFSYTtBQVNiQyxFQUFBQSxXQUFXLEVBQVhBLG9CQVRhO0FBVWJDLEVBQUFBLFlBQVksRUFBWkEscUJBVmE7QUFXYkMsRUFBQUEsY0FBYyxFQUFkQSx1QkFYYTtBQVliQyxFQUFBQSxVQUFVLEVBQVZBLG1CQVphO0FBYWJDLEVBQUFBLFlBQVksRUFBWkE7QUFiYSxDIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IENoZWNrYm94V2lkZ2V0IGZyb20gXCIuLi9DaGVja2JveFdpZGdldC9DaGVja2JveFdpZGdldFwiO1xyXG5pbXBvcnQgQ2hlY2tib3hlc1dpZGdldCBmcm9tIFwiLi4vQ2hlY2tib3hlc1dpZGdldC9DaGVja2JveGVzV2lkZ2V0XCI7XHJcbmltcG9ydCBQYXNzd29yZFdpZGdldCBmcm9tIFwiLi4vUGFzc3dvcmRXaWRnZXQvUGFzc3dvcmRXaWRnZXRcIjtcclxuaW1wb3J0IFJhZGlvV2lkZ2V0IGZyb20gXCIuLi9SYWRpb1dpZGdldC9SYWRpb1dpZGdldFwiO1xyXG5pbXBvcnQgUmFuZ2VXaWRnZXQgZnJvbSBcIi4uL1JhbmdlV2lkZ2V0L1JhbmdlV2lkZ2V0XCI7XHJcbmltcG9ydCBTZWxlY3RXaWRnZXQgZnJvbSBcIi4uL1NlbGVjdFdpZGdldC9TZWxlY3RXaWRnZXRcIjtcclxuaW1wb3J0IFRleHRhcmVhV2lkZ2V0IGZyb20gXCIuLi9UZXh0YXJlYVdpZGdldC9UZXh0YXJlYVdpZGdldFwiO1xyXG5pbXBvcnQgVGV4dFdpZGdldCBmcm9tIFwiLi4vVGV4dFdpZGdldC9UZXh0V2lkZ2V0XCI7XHJcbmltcG9ydCBVcERvd25XaWRnZXQgZnJvbSBcIi4uL1VwRG93bldpZGdldC9VcERvd25XaWRnZXRcIjtcclxuaW1wb3J0IERhdGVXaWRnZXQgZnJvbSBcIi4uL0RhdGVXaWRnZXQvRGF0ZVdpZGdldFwiO1xyXG5pbXBvcnQgRGF0ZVRpbWVXaWRnZXQgZnJvbSBcIi4uL0RhdGVUaW1lV2lkZ2V0L0RhdGVUaW1lV2lkZ2V0XCI7XHJcbmltcG9ydCBFbWFpbFdpZGdldCBmcm9tIFwiLi4vRW1haWxXaWRnZXQvRW1haWxXaWRnZXRcIjtcclxuaW1wb3J0IFVSTFdpZGdldCBmcm9tIFwiLi4vVVJMV2lkZ2V0L1VSTFdpZGdldFwiO1xyXG5cclxuZXhwb3J0IGRlZmF1bHQge1xyXG4gIENoZWNrYm94V2lkZ2V0LFxyXG4gIENoZWNrYm94ZXNXaWRnZXQsXHJcbiAgRGF0ZVdpZGdldCxcclxuICBEYXRlVGltZVdpZGdldCxcclxuICBQYXNzd29yZFdpZGdldCxcclxuICBFbWFpbFdpZGdldCxcclxuICBVUkxXaWRnZXQsXHJcbiAgUmFkaW9XaWRnZXQsXHJcbiAgUmFuZ2VXaWRnZXQsXHJcbiAgU2VsZWN0V2lkZ2V0LFxyXG4gIFRleHRhcmVhV2lkZ2V0LFxyXG4gIFRleHRXaWRnZXQsXHJcbiAgVXBEb3duV2lkZ2V0LFxyXG59O1xyXG4iXX0=
